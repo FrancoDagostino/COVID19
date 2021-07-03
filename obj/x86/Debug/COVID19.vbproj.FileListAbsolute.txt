@@ -1,0 +1,13 @@
+C:\Users\franc\OneDrive\Escritorio\facultad\final lab3\LP3\alumno\COVID19\bin\Debug\COVID19.exe.config
+C:\Users\franc\OneDrive\Escritorio\facultad\final lab3\LP3\alumno\COVID19\bin\Debug\COVID19.exe
+C:\Users\franc\OneDrive\Escritorio\facultad\final lab3\LP3\alumno\COVID19\bin\Debug\COVID19.pdb
+C:\Users\franc\OneDrive\Escritorio\facultad\final lab3\LP3\alumno\COVID19\bin\Debug\COVID19.xml
+C:\Users\franc\OneDrive\Escritorio\facultad\final lab3\LP3\alumno\COVID19\obj\x86\Debug\COVID19.FrmPrincipal.resources
+C:\Users\franc\OneDrive\Escritorio\facultad\final lab3\LP3\alumno\COVID19\obj\x86\Debug\COVID19.FrmTarea1.resources
+C:\Users\franc\OneDrive\Escritorio\facultad\final lab3\LP3\alumno\COVID19\obj\x86\Debug\COVID19.FrmTarea2.resources
+C:\Users\franc\OneDrive\Escritorio\facultad\final lab3\LP3\alumno\COVID19\obj\x86\Debug\COVID19.FrmTarea3.resources
+C:\Users\franc\OneDrive\Escritorio\facultad\final lab3\LP3\alumno\COVID19\obj\x86\Debug\COVID19.Resources.resources
+C:\Users\franc\OneDrive\Escritorio\facultad\final lab3\LP3\alumno\COVID19\obj\x86\Debug\COVID19.vbproj.GenerateResource.Cache
+C:\Users\franc\OneDrive\Escritorio\facultad\final lab3\LP3\alumno\COVID19\obj\x86\Debug\COVID19.exe
+C:\Users\franc\OneDrive\Escritorio\facultad\final lab3\LP3\alumno\COVID19\obj\x86\Debug\COVID19.xml
+C:\Users\franc\OneDrive\Escritorio\facultad\final lab3\LP3\alumno\COVID19\obj\x86\Debug\COVID19.pdb
